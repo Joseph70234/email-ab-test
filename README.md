@@ -10,7 +10,7 @@ This project aims determine if a new marketing email design results in more traf
 ## How to Use
 
 ### For Direct Replication of Results
-1. Download the [email_testing.ipynb](email_testing.ipynb) file.
+1. Download the [email_ab_testing.ipynb](email_ab_testing.ipynb) file.
 2. Download the "ab_test_data.csv" file.
 3. Ensure that the .ipynb file and the .csv file are in the same folder, or that you have made the necessary changes to the file path in the code.
 4. Ensure you have the libraries numpy, pandas, scripy, statsmodels, matplotlib, and seaborn installed on your machine.
